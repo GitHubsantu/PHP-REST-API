@@ -10,6 +10,7 @@
 
    # A SIMPLE CRUD APPLICATION USING PHP REST API
 
-   ![Capture](https://github.com/GitHubsantu/PHP-REST-API/assets/74730415/fb204ffa-f3f6-4b59-bdee-54ff9c10945e)
+   ![Capture](https://github.com/GitHubsantu/PHP-REST-API/assets/74730415/7f7f17e5-43db-498c-9208-f7324a2e8c6a)
+
    ![Capture1](https://github.com/GitHubsantu/PHP-REST-API/assets/74730415/3fff5130-b772-4713-bc87-d9d93dd17dc8)
 
