@@ -11,9 +11,11 @@
    # A SIMPLE CRUD APPLICATION USING PHP REST API
 
 
-   <img src="https://github.com/GitHubsantu/PHP-REST-API/assets/74730415/7f7f17e5-43db-498c-9208-f7324a2e8c6a" alt="">
-      <img src="https://github.com/GitHubsantu/PHP-REST-API/assets/74730415/3fff5130-b772-4713-bc87-d9d93dd17dc8" alt="">
-         <img src="https://github.com/GitHubsantu/PHP-REST-API/assets/74730415/0df07dec-361c-407a-bb73-3f24a1d50d69" alt="">
+![Capture](https://github.com/GitHubsantu/PHP-REST-API/assets/74730415/7bb2b28e-2e93-437d-8fb8-16c43f8919c7)
+![Capture1](https://github.com/GitHubsantu/PHP-REST-API/assets/74730415/46103b54-22e5-4b0d-9351-d9ae8b62d71c)
+![Capture3](https://github.com/GitHubsantu/PHP-REST-API/assets/74730415/31abd022-5bf8-4bab-abea-bc40b5887ddb)
+
+
 
 
 
