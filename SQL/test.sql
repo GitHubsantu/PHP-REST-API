@@ -40,7 +40,7 @@ CREATE TABLE `students` (
 --
 
 INSERT INTO `students` (`id`, `student_name`, `age`, `city`) VALUES
-(1, 'Yahoo Baba', 25, 'Delhi'),
+(1, 'Sanju Baba', 25, 'Delhi'),
 (2, 'Salman Khan', 24, 'Agra'),
 (3, 'Shahid Kapoor', 24, 'Bhopal'),
 (4, 'Juhi Chawla', 26, 'Delhi'),
