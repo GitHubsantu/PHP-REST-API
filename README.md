@@ -14,3 +14,7 @@
 
    ![Capture1](https://github.com/GitHubsantu/PHP-REST-API/assets/74730415/3fff5130-b772-4713-bc87-d9d93dd17dc8)
 
+
+   ![Capture2](https://github.com/GitHubsantu/PHP-REST-API/assets/74730415/f3d5a8de-0e02-4fa5-bb42-dfbafc69392a)
+
+
